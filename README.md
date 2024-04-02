@@ -3,6 +3,8 @@ This system is designed to predict breast cancer using machine learning algorith
 
 ![breast cancer](https://github.com/Kym0012/BreastCancerPredictionSystem/assets/127049484/ebbf554a-4681-4f67-b0aa-bc774e7b975f)
 
+![breastcaner 2](https://github.com/Kym0012/BreastCancerPredictionSystem/assets/127049484/63e9a7ac-ce0b-4f9e-aabb-c25085abecf8)
+
 
 ## Dataset
 The dataset used in this system is stored in breast-cancer.csv. It contains the following attributes:
