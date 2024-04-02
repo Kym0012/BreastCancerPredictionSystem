@@ -1,6 +1,9 @@
 # Breast Cancer Prediction System
 This system is designed to predict breast cancer using machine learning algorithms. It utilizes data on various attributes of breast cancer tumors to classify them as malignant or benign.
 
+![breast cancer](https://github.com/Kym0012/BreastCancerPredictionSystem/assets/127049484/ebbf554a-4681-4f67-b0aa-bc774e7b975f)
+
+
 ## Dataset
 The dataset used in this system is stored in breast-cancer.csv. It contains the following attributes:
 
